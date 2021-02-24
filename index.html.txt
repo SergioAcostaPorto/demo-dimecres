@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Hola, soc Sergio</title>
-  </head>
-  <body>
-    <p>Mola github pages. ¿Te has mira' mi video del squid?</p>
-  </body>
+<body>
+<h1>Hola sóc Sergio</h1>
+<p>Mola github pages. ¿Te ha molado mi quid?</p>
+</body>
 </html>
